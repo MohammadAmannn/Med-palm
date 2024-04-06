@@ -1,3 +1,6 @@
 streamlit
 streamlit_option_menu
 google.generativeai 
+gtts
+pydub
+
