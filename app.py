@@ -72,7 +72,7 @@ model = genai.GenerativeModel(model_name="gemini-1.0-pro-vision-latest",
                               safety_settings=safety_settings)
 
 # Logo
-st.image("we care.png", width=150)
+st.image("image.png", width=150)
 
 # Title
 st.title("Med Palm - Your Medical Assistant")
