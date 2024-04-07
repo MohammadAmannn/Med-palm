@@ -62,7 +62,7 @@ with st.sidebar:
         st.markdown("Welcome to our platform!")
         st.write("This is an AI-powered web application designed for users who want to keep track of their health")
     if selected=="About Developers":
-        st.markdown("We are team We Care And Your Health Is Our Priority App Made By Mohd Aman,Samiya Mirza & Sidra Saifi")
+        st.markdown("We are team We Care And Your Health Is Our Priority App Made By Team We_care")
     if selected=="Contact Us": 
         st.write("[Email: aman_239225@saitm.ac.in]")
 
